@@ -1,0 +1,156 @@
+[ 2017-08-14T08:55:59+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test10
+ERR: Think\Model:getDept方法不存在！
+
+[ 2017-08-14T10:56:33+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/base.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:33+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:33+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:33+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/login.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:33+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/base.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/login.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/jquery.js
+ERR: 非法操作:js
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/login.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/css/base.css
+ERR: 非法操作:css
+
+[ 2017-08-14T10:56:35+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/js/common.js
+ERR: 非法操作:js
+
+[ 2017-08-14T13:40:20+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/__COTROLLER__/captcha/t/0.19010175656506134
+ERR: 非法操作:__COTROLLER__
+
+[ 2017-08-14T13:40:34+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/__COTROLLER__/captcha/t/0.16931787496100603
+ERR: 非法操作:__COTROLLER__
+
+[ 2017-08-14T14:29:47+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/index.html
+ERR: 非法操作:index
+
+[ 2017-08-14T14:39:24+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_public' doesn't exist
+
+[ 2017-08-14T14:42:14+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T14:42:55+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_public' doesn't exist
+
+[ 2017-08-14T14:43:24+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T14:47:05+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_public' doesn't exist
+
+[ 2017-08-14T14:48:53+08:00 ] 127.0.0.1 /oa/index.php/Admin/Public/checkLogin.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_public' doesn't exist
+
+[ 2017-08-14T14:51:40+08:00 ] 127.0.0.1 /oa/index.php/Admin/dept/test
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_public' doesn't exist
+
+[ 2017-08-14T15:05:45+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_test' doesn't exist
+
+[ 2017-08-14T15:06:09+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_test' doesn't exist
+
+[ 2017-08-14T15:06:29+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_test' doesn't exist
+
+[ 2017-08-14T15:08:00+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:08+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_oa.sp_test' doesn't exist
+
+[ 2017-08-14T15:10:44+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:45+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:46+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:46+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:46+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:46+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:10:46+08:00 ] 127.0.0.1 /oa/index.php/Admin/Test/test12
+ERR: Think\Model:test方法不存在！
+
+[ 2017-08-14T15:57:29+08:00 ] 127.0.0.1 /oa/index.php/Admin/dept/test
+ERR: 非法操作:test
+
+[ 2017-08-14T16:05:10+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:12:00+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:12:25+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:13:39+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:13:45+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:27:16+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:29:28+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:29:37+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T16:30:01+08:00 ] 127.0.0.1 /oa/index.php/Admin/Index/login.html
+ERR: 非法操作:login
+
+[ 2017-08-14T21:00:55+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/__CONTROLLRT__/edit/id/5
+ERR: 非法操作:__CONTROLLRT__
+
+[ 2017-08-14T21:02:23+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/__CONTROLLRT__/edit/id/4
+ERR: 非法操作:__CONTROLLRT__
+
+[ 2017-08-14T21:02:52+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/__CONTROLLRT__/edit/id/4
+ERR: 非法操作:__CONTROLLRT__
+
+[ 2017-08-14T21:03:03+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/edit/id/4
+ERR: 模板不存在:./Application/Admin/View/Dept/edit.html
+

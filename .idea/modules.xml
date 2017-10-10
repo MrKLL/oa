@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JS/.idea/JS.iml" filepath="$PROJECT_DIR$/../JS/.idea/JS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework/.idea/homework.iml" filepath="$PROJECT_DIR$/../homework/.idea/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oa.iml" filepath="$PROJECT_DIR$/.idea/oa.iml" />
+    </modules>
+  </component>
+</project>

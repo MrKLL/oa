@@ -1,0 +1,12 @@
+[ 2017-08-13T10:17:59+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/U('add')
+ERR: 非法操作:U('add')
+
+[ 2017-08-13T10:19:52+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/U('Dept/add')
+ERR: 非法操作:U('Dept
+
+[ 2017-08-13T10:48:21+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/showList.html
+ERR: XML标签语法错误 : condition="$res.pid 
+
+[ 2017-08-13T16:30:20+08:00 ] 127.0.0.1 /oa/index.php/Admin/Dept/2
+ERR: 非法操作:2
+
