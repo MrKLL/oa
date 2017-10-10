@@ -1,0 +1,30 @@
+[ 2017-08-19T14:35:04+08:00 ] 127.0.0.1 /oa/index.php/Admin/Email/recBox.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left from sp_user as t2 on t1.from_id=t2.id  WHERE ( to_id=1 )' at line 1
+
+[ 2017-08-19T14:37:02+08:00 ] 127.0.0.1 /oa/index.php/Admin/Email/recBox.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't2.turename' in 'field list'
+
+[ 2017-08-19T14:37:03+08:00 ] 127.0.0.1 /oa/index.php/Admin/Email/recBox.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 't2.turename' in 'field list'
+
+[ 2017-08-19T14:41:38+08:00 ] 127.0.0.1 /oa/index.php/Admin/Email/download/id/3
+ERR: 非法操作:download
+
+[ 2017-08-19T15:45:39+08:00 ] 127.0.0.1 /oa/index.php/Admin/aaaa
+ERR: 模板不存在:./Application/Admin/View/Aaaa/index.html
+
+[ 2017-08-19T15:47:04+08:00 ] 127.0.0.1 /oa/index.php/Admin/aaaa
+ERR: 模板不存在:./Application/Admin/View/Aaaa/error.html
+
+[ 2017-08-19T15:47:53+08:00 ] 127.0.0.1 /oa/index.php/Admin/public/aaa
+ERR: 非法操作:aaa
+
+[ 2017-08-19T15:54:29+08:00 ] 127.0.0.1 /oa/index.php/Admin/doc/logss
+ERR: 非法操作:logss
+
+[ 2017-08-19T15:54:58+08:00 ] 127.0.0.1 /oa/index.php/Admin/doc/logss
+ERR: 非法操作:logss
+
+[ 2017-08-19T16:40:25+08:00 ] 127.0.0.1 /oa/index.php/Admin/dept
+ERR: 非法操作:index
+

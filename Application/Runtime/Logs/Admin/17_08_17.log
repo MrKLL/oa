@@ -1,0 +1,21 @@
+[ 2017-08-17T09:21:01+08:00 ] 127.0.0.1 /oa/index.php/Admin/User/editOk
+ERR: 非法操作:editOk
+
+[ 2017-08-17T09:58:21+08:00 ] 127.0.0.1 /oa/index.php/Admin/User/del
+ERR: 非法操作:del
+
+[ 2017-08-17T09:59:59+08:00 ] 127.0.0.1 /oa/index.php/Admin/User/del
+ERR: 非法操作:del
+
+[ 2017-08-17T10:20:57+08:00 ] 127.0.0.1 /oa/index.php/Admin/Doc/showList
+ERR: 非法操作:showList
+
+[ 2017-08-17T10:20:58+08:00 ] 127.0.0.1 /oa/index.php/Admin/Doc/add
+ERR: 非法操作:add
+
+[ 2017-08-17T10:20:59+08:00 ] 127.0.0.1 /oa/index.php/Admin/Doc/showList
+ERR: 非法操作:showList
+
+[ 2017-08-17T19:57:04+08:00 ] 127.0.0.1 /oa/index.php/Admin/Doc
+ERR: 非法操作:index
+
