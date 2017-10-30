@@ -14,5 +14,10 @@
         </SOURCES>
       </library>
     </orderEntry>
+<<<<<<< HEAD
+=======
+    <orderEntry type="module" module-name="homework" />
+    <orderEntry type="module" module-name="JS" />
+>>>>>>> fae4a1f9e55f72b2efb87171ddfc918dceb5ed5c
   </component>
 </module>

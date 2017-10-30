@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test3</title>
+</head>
+<body>
+{//volist遍历演示}
+<volist name="arr" id="v">
+    {$v}-
+</volist>
+{//foreach遍历演示}
+<hr/>
+<foreach name="arr" item="v">
+    {$v}-
+</foreach>
+<hr/>
+{/* volist第一种:
+<volist name="arrs" id="arrs">
+    {$arrs.id}-{$arrs.name}&nbsp;
+</volist>
+
+<hr/>
+volist第二种:
+<volist name="arrs" id="arr">
+    <volist name="arr" id="v">
+        {$v}-
+    </volist>
+</volist>
+*/}
+<hr/>
+foreach:
+<foreach name="arrs" item="aa" key="k">
+
+</foreach>
+
+</body>
+</html>
